@@ -12,7 +12,7 @@ class FactorialNumbersTest extends BaseIOTest {
         factorialNumbers.printFactorialRow(7);
 
         assertOutEquals(
-                "1\n" +
+
                 "1\n" +
                 "2\n" +
                 "6\n" +
